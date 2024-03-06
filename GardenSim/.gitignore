@@ -70,6 +70,8 @@ Saved/*
 Intermediate/*
 Plugins/*/Intermediate/*
 
+.DS_Store
+
 # Cache files for the editor to use
 DerivedDataCache/*
 GardenSim/Saved/AutoScreenshot.png
